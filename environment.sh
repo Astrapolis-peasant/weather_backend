@@ -1,0 +1,2 @@
+export weather_api='97953aa3bda0c1c6313179f7954e1370'
+export map_api='AIzaSyDWkln2qniSzTDyX0fRUUqO4pj06yCC218'
